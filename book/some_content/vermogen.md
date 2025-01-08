@@ -17,14 +17,14 @@ Door deze formule om te schrijven kun je ook het vermogen berekenen als je de ho
 $$ P = U \cdot I $$ (eq:vermogen2)
 
 ```{warning}
-Hierin is het vermogen altijd in watt (W), de stroomsterkte altijd in Ampère (A) en de spanning altijd in Volt (V)
+Hierin is het vermogen altijd in watt (W), de stroomsterkte altijd in ampère (A) en de spanning altijd in volt (V)
 ```
 ## Voorbeeldopgaven
 Hieronder staan een tweetal voorbeeldopgaven
 
 ```{exercise} Waterkoker
 :label: ex_waterkoker
-Een waterkoker zit in het stopcontact (U= 230 V). Ik meet met een Ampèremeter dat er 7 A aan stroom door de draad richting de waterkoker gaat. Bereken het vermogen van de waterkoker.
+Een waterkoker zit in het stopcontact (U= 230 V). Mevrouw Warringa meet met een ampèremeter dat er 7 A aan stroom door de draad richting de waterkoker gaat. Bereken het vermogen van de waterkoker.
 ```
 
 ```{solution} ex_waterkoker

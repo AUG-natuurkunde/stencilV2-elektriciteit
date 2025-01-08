@@ -6,7 +6,7 @@ De antwoorden kun je onder het kopje TIP vinden.
 
 ## Opgave 11
 
-Een gloeilamp werkt op een spanning van 20 V en trekt een stroom van 0,5 A. Bereken het vermogen van de lamp.
+Een gloeilamp werkt op een spanning van 20 V en trekt een stroomsterkte van 0,5 A. Bereken het vermogen van de lamp.
 ```{tip}
 :class: dropdown
 P = 10 W

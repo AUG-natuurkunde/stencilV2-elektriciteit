@@ -104,20 +104,20 @@ Er zijn 2 manieren om dit op te lossen:
 
 Manier 1:
 
-O:  I_televisie  =  150/230  = 0.65 A
+O:    I_televisie  =  150/230  = 0.65 A
 
-       I_lamp  =  60/230  = 0.26 A
+      I_lamp  =  60/230  = 0.26 A
 
-       I_laptop  =  90/230  = 0.39 A
+      I_laptop  =  90/230  = 0.39 A
 
-       alle stroom komt uit het stopcontact, dus:
+      alle stroom komt uit het stopcontact, dus:
 
-       I_stopcontact  = I_televisie+I_lamp+I_laptop  = 1.3 A
+      I_stopcontact  = I_televisie+I_lamp+I_laptop  = 1.3 A
 
 
 Manier 2:
 
-O: al het vermogen komt uit het stopcontact, dus:
+O:    al het vermogen komt uit het stopcontact, dus:
 
       P_stopcontact  = P_televisie+P_lamp+P_laptop  = 300 W
 
